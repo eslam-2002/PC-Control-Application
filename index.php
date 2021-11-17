@@ -28,20 +28,6 @@ if (isset($_POST["command"])) {
 <body style="background-color: #bfbcbb;">
 
 <div class="container" style="padding-top: 25px;">
-<div class="row">
-
-<div class="col-4"></div>
-<div class="col-4">
-<div class="card text-white bg-danger mb-3" style="max-width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title">This Application Should Never Be Deployed To Production</h5>
-  </div>
-</div>
-<div class="col-4"></div>
-
-</div>
-</div>
-<div class="container" style="padding-top: 25px;">
     <div class="row">
         <div class="col-3"></div>
         <div class="col-6">
